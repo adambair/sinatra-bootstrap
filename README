@@ -1,0 +1,10 @@
+# Sinatra Bootstrap
+
+Sinatra, HAML, SASS, Coffeescript, jQuery, Underscore, Heroku
+
+# Instructions
+
+bundle install
+rackup
+http://localhost:9292
+
